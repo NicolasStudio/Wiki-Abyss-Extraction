@@ -1,0 +1,2 @@
+Coloque aqui os vídeos (mp4 recomendado, codec H.264).
+Depois, em dados.js, adicione um registro com "video": "nome-do-arquivo.mp4".
