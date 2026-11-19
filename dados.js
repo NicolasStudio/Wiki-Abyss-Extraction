@@ -84,11 +84,11 @@ const REGISTROS = [
     texto: "Neste registro, apresento a primeira versão da área de extração, onde o jogador poderá organizar e transportar os objetos coletados para dentro da nave.\n\nDemonstro também o funcionamento da lanterna durante a exploração de ambientes escuros, destacando a iluminação dos cenários e a importância de enxergar o que está ao redor sem perder a atenção às ameaças.\n\nDurante o vídeo, apresento diferentes estruturas exploráveis, incluindo casas pequenas, médias e grandes, ampliando as possibilidades de exploração e coleta.\n\nTambém mostro o sistema de bateria da lanterna, que possui carga limitada e pode se esgotar durante a exploração, exigindo que o jogador administre seu uso."
   },
 
-  // {
-  //   numero: 9,
-  //   data: "19/11/2026",
-  //   titulo: "Nono registro",
-  //   video: "Nono video.mp4",
-  //   texto: "Neste registro, apresento uma nova arma para o jogador: a besta (crossbow), uma opção de combate de longo alcance que utiliza munição limitada e pode ser recarregada por meio de uma aljava.\n\nA arma possui um sistema de recuperação de flechas, permitindo que o jogador procure e reutilize os projéteis disparados. Porém, nem todas as flechas poderão ser recuperadas, pois existe a possibilidade de se perderem ou quebrarem durante o uso.\n\nA mecânica adiciona uma nova camada de estratégia ao combate, fazendo com que cada disparo precise ser pensado, especialmente durante encontros com criaturas perigosas.\n\nTambém demonstro o que acontece quando o jogador tenta atacar o vendedor do Mercado Espacial, explorando as possibilidades de interação e as consequências de suas ações."
-  // }
+  {
+    numero: 9,
+    data: "19/11/2026",
+    titulo: "Nono registro",
+    video: "Nono video.mp4",
+    texto: "Neste registro, apresento uma nova arma para o jogador: a besta (crossbow), uma opção de combate de longo alcance que utiliza munição limitada e pode ser recarregada por meio de uma aljava.\n\nA arma possui um sistema de recuperação de flechas, permitindo que o jogador procure e reutilize os projéteis disparados. Porém, nem todas as flechas poderão ser recuperadas, pois existe a possibilidade de se perderem ou quebrarem durante o uso.\n\nA mecânica adiciona uma nova camada de estratégia ao combate, fazendo com que cada disparo precise ser pensado, especialmente durante encontros com criaturas perigosas.\n\nTambém demonstro o que acontece quando o jogador tenta atacar o vendedor do Mercado Espacial, explorando as possibilidades de interação e as consequências de suas ações."
+  }
 ];
